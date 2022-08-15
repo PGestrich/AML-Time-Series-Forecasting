@@ -3,3 +3,6 @@ Code for AML
 
 Topic: Time Series Forecasting
 (via Kaggl challenge)
+
+Julian Nürk,
+Prisca Gestrich
